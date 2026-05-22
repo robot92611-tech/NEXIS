@@ -1,0 +1,2 @@
+# NEXIS
+fully local AI
